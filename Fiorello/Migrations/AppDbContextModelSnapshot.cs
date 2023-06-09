@@ -132,7 +132,7 @@ namespace Fiorello.Migrations
                         {
                             Id = 1,
                             Age = 19,
-                            CreatedDate = new DateTime(2023, 6, 4, 0, 37, 55, 40, DateTimeKind.Local).AddTicks(1860),
+                            CreatedDate = new DateTime(2023, 6, 9, 20, 0, 20, 249, DateTimeKind.Local).AddTicks(8260),
                             FullName = "Musa Afandiyev",
                             SoftDelete = false
                         },
@@ -140,7 +140,7 @@ namespace Fiorello.Migrations
                         {
                             Id = 2,
                             Age = 19,
-                            CreatedDate = new DateTime(2023, 6, 4, 0, 37, 55, 40, DateTimeKind.Local).AddTicks(1900),
+                            CreatedDate = new DateTime(2023, 6, 9, 20, 0, 20, 249, DateTimeKind.Local).AddTicks(8270),
                             FullName = "Murad Jafarov",
                             SoftDelete = false
                         },
@@ -148,7 +148,7 @@ namespace Fiorello.Migrations
                         {
                             Id = 3,
                             Age = 6,
-                            CreatedDate = new DateTime(2023, 6, 4, 0, 37, 55, 40, DateTimeKind.Local).AddTicks(1910),
+                            CreatedDate = new DateTime(2023, 6, 9, 20, 0, 20, 249, DateTimeKind.Local).AddTicks(8270),
                             FullName = "Resul Hasanov",
                             SoftDelete = false
                         });
@@ -379,6 +379,9 @@ namespace Fiorello.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("SoftDelete")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("Status")
                         .HasColumnType("bit");
 
                     b.Property<string>("Title")

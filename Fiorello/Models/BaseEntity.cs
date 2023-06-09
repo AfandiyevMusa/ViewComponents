@@ -5,7 +5,7 @@ namespace Fiorello.Models
 	{
         public int Id { get; set; }
         public bool SoftDelete { get; set; }
-        public DateTime CreatedDate { get; set; }
+        public DateTime CreatedDate { get; set; } = DateTime.Now;
     }
 }
 

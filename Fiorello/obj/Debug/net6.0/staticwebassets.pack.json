@@ -105,6 +105,10 @@
       "PackagePath": "staticwebassets/admin/assets/js/main.js"
     },
     {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/admin/assets/js/slider.js",
+      "PackagePath": "staticwebassets/admin/assets/js/slider.js"
+    },
+    {
       "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/admin/assets/scss/Readme.txt",
       "PackagePath": "staticwebassets/admin/assets/scss/Readme.txt"
     },
@@ -1709,6 +1713,34 @@
       "PackagePath": "staticwebassets/css/style.css.map"
     },
     {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/10fcc599-47d7-443e-8732-6fbb219350c9_blog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets/img/10fcc599-47d7-443e-8732-6fbb219350c9_blog-feature-img-1.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/3d489b2e-d259-46f5-bff5-6b8507eeae59_blog-feature-img-3.jpg",
+      "PackagePath": "staticwebassets/img/3d489b2e-d259-46f5-bff5-6b8507eeae59_blog-feature-img-3.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/4d6d6121-d7a3-46c4-8196-581f830b9b9d_h3-slider-background.jpg",
+      "PackagePath": "staticwebassets/img/4d6d6121-d7a3-46c4-8196-581f830b9b9d_h3-slider-background.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/608a2cc5-3cd4-42c4-a659-0214cfe605d2_h3-slider-background.jpg",
+      "PackagePath": "staticwebassets/img/608a2cc5-3cd4-42c4-a659-0214cfe605d2_h3-slider-background.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/7c4180c6-fa27-4a21-b44f-92c3fd5ae8ad_instagram8.jpg",
+      "PackagePath": "staticwebassets/img/7c4180c6-fa27-4a21-b44f-92c3fd5ae8ad_instagram8.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/a4543f10-6a0e-4483-8a8d-af05497bfeb1_h3-slider-background.jpg",
+      "PackagePath": "staticwebassets/img/a4543f10-6a0e-4483-8a8d-af05497bfeb1_h3-slider-background.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/b37e0d87-5d68-481b-a622-336307fc8741_608a2cc5-3cd4-42c4-a659-0214cfe605d2_h3-slider-background.jpg",
+      "PackagePath": "staticwebassets/img/b37e0d87-5d68-481b-a622-336307fc8741_608a2cc5-3cd4-42c4-a659-0214cfe605d2_h3-slider-background.jpg"
+    },
+    {
       "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/blog-feature-img-1.jpg",
       "PackagePath": "staticwebassets/img/blog-feature-img-1.jpg"
     },
@@ -1719,6 +1751,18 @@
     {
       "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/blog-feature-img-4.jpg",
       "PackagePath": "staticwebassets/img/blog-feature-img-4.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/ddc8bbb5-e326-4eaa-9693-353aa4f88b88_h2-sign-img.png",
+      "PackagePath": "staticwebassets/img/ddc8bbb5-e326-4eaa-9693-353aa4f88b88_h2-sign-img.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/e3b96ad0-36f7-4c8d-b73a-414daa602695_10fcc599-47d7-443e-8732-6fbb219350c9_blog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets/img/e3b96ad0-36f7-4c8d-b73a-414daa602695_10fcc599-47d7-443e-8732-6fbb219350c9_blog-feature-img-1.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/efed0a0c-e4d2-46ae-8c48-0b8f411ad11f_a4543f10-6a0e-4483-8a8d-af05497bfeb1_h3-slider-background.jpg",
+      "PackagePath": "staticwebassets/img/efed0a0c-e4d2-46ae-8c48-0b8f411ad11f_a4543f10-6a0e-4483-8a8d-af05497bfeb1_h3-slider-background.jpg"
     },
     {
       "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/favicon.png",
@@ -1739,18 +1783,6 @@
     {
       "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/h3-background-img.jpg",
       "PackagePath": "staticwebassets/img/h3-background-img.jpg"
-    },
-    {
-      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/h3-slider-background-2.jpg",
-      "PackagePath": "staticwebassets/img/h3-slider-background-2.jpg"
-    },
-    {
-      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/h3-slider-background-3.jpg",
-      "PackagePath": "staticwebassets/img/h3-slider-background-3.jpg"
-    },
-    {
-      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/h3-slider-background.jpg",
-      "PackagePath": "staticwebassets/img/h3-slider-background.jpg"
     },
     {
       "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/h3-team-img-1.png",
@@ -1871,6 +1903,10 @@
     {
       "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/img/testimonial-img-2.png",
       "PackagePath": "staticwebassets/img/testimonial-img-2.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/imgdbc6278b-55a1-49ed-907c-f1b8e43e384a_blog-feature-img-3.jpg",
+      "PackagePath": "staticwebassets/imgdbc6278b-55a1-49ed-907c-f1b8e43e384a_blog-feature-img-3.jpg"
     },
     {
       "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/Fiorello/Fiorello/wwwroot/js/basket.js",

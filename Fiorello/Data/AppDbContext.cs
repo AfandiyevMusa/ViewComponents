@@ -28,6 +28,7 @@ namespace Fiorello.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Product>().HasQueryFilter(m => !m.SoftDelete);
+            //modelBuilder.Entity<Category>().HasQueryFilter(m => !m.SoftDelete);
 
             modelBuilder.Entity<Customer>().HasData(
                 new Customer

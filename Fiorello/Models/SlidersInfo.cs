@@ -6,6 +6,7 @@ namespace Fiorello.Models
         public string Title { get; set; }
         public string Info { get; set; }
         public string SignImage { get; set; }
+        public bool Status { get; set; } = true;
     }
 }
 
